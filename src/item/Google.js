@@ -20,12 +20,9 @@ export const Google = () => (
   <Block>
     <h1>Google</h1>
     <p>
-      This is Google. It's a search engine started by Sergey Brin and Larry
+      Click this and you will go to youtube monetization embed component
       Page.
     </p>
-    <p>
-      PageRank is the search algorithm that started it all. Today it's a
-      multibillion dollar company.
-    </p>
+    
   </Block>
 );

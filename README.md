@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create a youtube web monetization embed in your blog post
+
+with this project you can create your own youtube embed monetized using web monetized api this is useful for people who still doesnt have their adsense activated
 
 ## Available Scripts
 
