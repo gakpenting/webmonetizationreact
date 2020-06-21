@@ -1,5 +1,7 @@
 # Create a youtube web monetization embed in your blog post
 
+[![donatepaypal](https://img.shields.io/badge/PAYPAL-DONATE-brightgreen?style=for-the-badge&logo=paypal)](https://paypal.me/rinoakbr)
+
 with this project you can create your own youtube embed monetized using web monetized api this is useful for people who still doesnt have their adsense activated
 
 ## Available Scripts
